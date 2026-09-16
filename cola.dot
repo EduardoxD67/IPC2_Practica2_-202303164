@@ -1,0 +1,4 @@
+digraph Cola {
+rankdir=LR;
+node [shape=record, style=filled, fillcolor=lightblue];
+}
